@@ -1,4 +1,4 @@
-## Route file & MySql connection file  
-It's just a route file and a database connection file.
-<br>
-_Or at least a try :D_
+## Route & MySql connection
+It's just a route and database connection file.
+
+_(Or at least a try :D)_
